@@ -6,7 +6,7 @@
 
 | Repository | Visibility | Purpose |
 |---|---:|---|
-| [`requirements`](https://github.com/Business-Unit-for-Data-Intelligen/requirements) | private | 数据智能能力中心需求池：数据治理、企业知识库、RAG、BI、指标体系与产业情报 |
+| [`requirements`](https://github.com/Business-Unit-for-Data-Intelligence/requirements) | private | 数据智能能力中心需求池：数据治理、企业知识库、RAG、BI、指标体系与产业情报 |
 
 ## Governance
 
@@ -17,7 +17,7 @@
 
 ## Naming note
 
-- 当前组织名拼写不完整，建议后续改名为 `Business-Unit-for-Data-Intelligence`。
+- 组织名当前可用。
 
 ---
 
